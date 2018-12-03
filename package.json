@@ -1,0 +1,17 @@
+{
+  "name": "kilaftp",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kilaftp": "index.js"
+  },
+  "author": "guren_d",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2-sftp-client": "^2.4.2"
+  }
+}
